@@ -17,6 +17,7 @@
     <property name="suffix" value=".jsp"/>
   </bean>
 
+  <!--对应的路径找对应的controller-->
   <bean id="/hello2" class="com.tongy.controller.HelloController"/>
 
 </beans>

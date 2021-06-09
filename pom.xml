@@ -15,6 +15,7 @@
   <modules>
     <module>servlet-01</module>
     <module>hellomvc-02</module>
+    <module>annotationmvc-03</module>
   </modules>
 
   <dependencies>
